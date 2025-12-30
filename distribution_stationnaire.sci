@@ -6,7 +6,6 @@
 // Markov et optimisation de la stratégie de maintenance préventive
 // ============================================================================
 
-clear; clc; clf();
 
 // ============================================================================
 // PARTIE 1: ANALYSE DE DONNÉES PRATIQUES
